@@ -1,4 +1,5 @@
 # pip install pyTelegramBotAPI
+# pip install telebot
 
 import telebot
 import datetime
